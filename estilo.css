@@ -136,12 +136,12 @@ footer img.float-left {
     footer img.float-left {
         float: none;
         margin-bottom: 10px;
-        margin-left: auto; /* Centra la imagen */
+        margin-left: auto; 
         margin-right: auto;
     }
     
-    /* Centra el texto del footer en móvil */
     footer p {
         text-align: center;
     }
+
 }
